@@ -1,31 +1,5 @@
-## Oral, Spotlight
-* Track 1 Session 1 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15843)
-* Track 1 Session 2 [12 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15850)
-* Track 1 Session 3 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15863)
-* Track 1 Session 4 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15870)
-* Track 1 Session 5 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15881)
-* Track 1 Session 6 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15888)
-* Track 2 Session 1 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15787)
-* Track 2 Session 2 [12 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15794)
-* Track 2 Session 3 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15807)
-* Track 2 Session 4 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15814)
-* Track 2 Session 5 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15825)
-* Track 2 Session 6 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15832)
-* Track 3 Session 1 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15675)
-* Track 3 Session 2 [12 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15682)
-* Track 3 Session 3 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15695)
-* Track 3 Session 4 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15702)
-* Track 3 Session 5 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15713)
-* Track 3 Session 6 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15720)
-* Track 4 Session 1 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15731)
-* Track 4 Session 2 [12 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15738)
-* Track 4 Session 3 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15751)
-* Track 4 Session 4 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15758)
-* Track 4 Session 5 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15769)
-* Track 4 Session 6 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15776)
-
-## Poster
-### Algorithms
+# Poster
+## Algorithms
 * Active Learning: [9 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15617)
 * Adaptive Data Analysis: [4 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15548)
 * Adversarial Learning: [16 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15493) [17 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15618)
@@ -61,7 +35,7 @@
 * Structured Prediction: [5 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15532) [5 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15649)
 * Uncertainty Estimation: [20 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15553)
 * Unsupervised Learning: [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15533) [7 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15554) [7 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15650)
-### Applications
+## Applications
 * Activity and Event Recognition: [4 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15651)
 * Audio and Speech Processing: [4 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15598)
 * Body Pose, Face, and Gesture Analysis: [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15534)
@@ -96,12 +70,12 @@
 * Visual Question Answering: [8 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15603)
 * Visual Scene Analysis and Interpretation: [4 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15559)
 * Web Applications and Internet Data: [1 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15508)
-### Data, Challenges, Implementations, and Software
+## Data, Challenges, Implementations, and Software
 * Benchmarks: [2 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15604)
 * Data Sets or Data Repositories: [2 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15605) [3 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15666)
 * Software Toolkits: [3 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15667)
 * Virtual Environments: [1 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15606)
-### Deep Learning
+## Deep Learning
 * Adversarial Networks: [14 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15628)
 * Attention Models: [9 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15607)
 * Biologically Plausible Deep Networks: [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15509)
@@ -118,9 +92,7 @@
 * Recurrent Networks: [9 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15516)
 * Supervised Deep Networks: [7 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15562)
 * Visualization or Exposition Techniques for Deep Networks: [15 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15517)
-* Demos Tue [14 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15491)
-* Demos Wed [14 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15492)
-### Neuroscience and Cognitive Science
+## Neuroscience and Cognitive Science
 * Brain Imaging: [2 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15563)
 * Brain Mapping: [1 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15564)
 * Brain--Computer Interfaces and Neural Prostheses: [4 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15565)
@@ -135,13 +107,13 @@
 * Problem Solving: [1 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15572)
 * Reasoning: [2 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15635)
 * Visual Perception: [4 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15573)
-### Optimization
+## Optimization
 * Combinatorial Optimization: [5 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15518)
 * Convex Optimization: [16 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15535) [16 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15608)
 * Non-Convex Optimization: [12 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15536) [23 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15636)
 * Stochastic Optimization: [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15537) [7 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15574) [7 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15637)
 * Submodular Optimization: [7 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15575)
-### Probabilistic Methods
+## Probabilistic Methods
 * Bayesian Nonparametrics: [3 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15576)
 * Belief Propagation: [2 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15577)
 * Causal Inference: [19 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15519)
@@ -153,7 +125,7 @@
 * MCMC: [9 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15541) [8 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15611)
 * Topic Models: [3 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15580)
 * Variational Inference: [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15542) [11 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15612)
-### Reinforcement Learning and Planning
+## Reinforcement Learning and Planning
 * Decision and Control: [8 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15520) [4 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15581)
 * Exploration: [14 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15521)
 * Hierarchical RL: [5 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15582)
@@ -163,7 +135,7 @@
 * Navigation: [2 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15523)
 * Planning: [8 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15638)
 * Reinforcement Learning: [15 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15545) [30 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15583) [15 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15639)
-### Theory
+## Theory
 * Computational Complexity: [2 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15524)
 * Control Theory: [1 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15546)
 * Frequentist Statistics: [2 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15525) [3 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15670)
@@ -175,3 +147,28 @@
 * Regularization: [5 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15586) [5 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15641)
 * Spaces of Functions and Kernels: [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15674)
 * Statistical Physics of Learning: [7 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15615)
+# Oral, Spotlight
+* Track 1 Session 1 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15843)
+* Track 1 Session 2 [12 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15850)
+* Track 1 Session 3 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15863)
+* Track 1 Session 4 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15870)
+* Track 1 Session 5 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15881)
+* Track 1 Session 6 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15888)
+* Track 2 Session 1 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15787)
+* Track 2 Session 2 [12 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15794)
+* Track 2 Session 3 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15807)
+* Track 2 Session 4 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15814)
+* Track 2 Session 5 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15825)
+* Track 2 Session 6 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15832)
+* Track 3 Session 1 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15675)
+* Track 3 Session 2 [12 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15682)
+* Track 3 Session 3 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15695)
+* Track 3 Session 4 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15702)
+* Track 3 Session 5 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15713)
+* Track 3 Session 6 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15720)
+* Track 4 Session 1 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15731)
+* Track 4 Session 2 [12 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15738)
+* Track 4 Session 3 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15751)
+* Track 4 Session 4 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15758)
+* Track 4 Session 5 [6 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15769)
+* Track 4 Session 6 [10 papers](http://neurips.cc/Conferences/2019/Schedule?showParentSession=15776)
